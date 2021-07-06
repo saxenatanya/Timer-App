@@ -7,6 +7,7 @@ function App() {
     const newTime = new Date().toLocaleTimeString();
     setTime(newTime);
   }
+  // uncommment this line to start the timmer 
 // setInterval(getTime,1000)
   
   return (
