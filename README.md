@@ -1,5 +1,5 @@
 # Timer-App
-Created with CodeSandbox
+Created with CodeSandbox made in ReactJs using state
 
 This app gives your current local time on button click
 
